@@ -151,7 +151,7 @@ export default function GeoLocationMap() {
   const { data: fetchedData, loading, error } = useEmergencyData()
   const [calls, setCalls] = useState<EmergencyCallData[]>([])
   const [filteredCalls, setFilteredCalls] = useState<EmergencyCallData[]>([])
-  const [selectedDate, setSelectedDate] = useState<Date | undefined>(new Date(2023, 3, 27)) // April is month 3 (zero-indexed)
+  const [selectedDate, setSelectedDate] = useState<Date | undefined>(new Date(2025, 4, 21)) // April is month 3 (zero-indexed)
   const [selectedCategory, setSelectedCategory] = useState<string | undefined>(undefined)
   const [newCall, setNewCall] = useState({
     call_type: "Medical",
@@ -189,7 +189,7 @@ export default function GeoLocationMap() {
       setCalls(fetchedData)
 
       // Initially filter to show only April 27, 2023 data
-      const initialDateString = "2023-04-27"
+      const initialDateString = "2023-4-27"
       const initialFiltered = fetchedData.filter((call) => {
         const callDate = format(new Date(call.date), "yyyy-MM-dd")
         return callDate === initialDateString
@@ -783,7 +783,6 @@ export default function GeoLocationMap() {
               <CardHeader>
                 <CardTitle>Emergency Call List</CardTitle>
                 <div className="flex justify-between items-center mt-2">
-                  <CardDescription>{calls.length} calls in total</CardDescription>
                   <Button
                     variant="outline"
                     size="sm"

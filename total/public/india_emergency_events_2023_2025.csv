@@ -4,7 +4,82 @@ date,call_type,call_count,district,latitude,longitude,response_time,destruction_
 2023-04-27,Medical,32,Visakhapatnam,17.6663,83.2771,12.8,3.1,Healthcare,Heatstroke Wave,45,"Multiple cases of heatstroke amid extreme temperatures, affecting vulnerable populations.",False
 2023-04-27,Medical,67,Mumbai,19.0623,73.0629,11.5,3.8,Healthcare,Gastroenteritis Outbreak,128,"Outbreak of gastroenteritis affecting multiple communities, likely from contaminated water.",False
 2023-04-27,Fire,29,Shimla,31.2335,77.1357,14.7,9.4,Natural,Forest Fire,109,Wildfire spreading through forest areas threatening nearby settlements.,True
-2023-04-27,Disaster,79,Jaipur,26.7931,75.6848,26.9,4.4,Natural,Heatwave,70,Prolonged period of extremely high temperatures affecting vulnerable populations.,False
+2023-04-27,Disaster,71,Varanasi,25.2219,83.1014,28.1,4.2,Natural,Heatwave,94,Prolonged period of extremely high temperatures affecting vulnerable populations.,False
+2023-04-27,Medical,66,Bhubaneswar,20.4785,85.7693,11.9,6.9,Healthcare,Heatstroke Wave,91,Multiple cases of heatstroke amid extreme temperatures affecting vulnerable populations.,False
+2023-04-27,Medical,32,Visakhapatnam,17.6663,83.2771,12.8,3.1,Healthcare,Heatstroke Wave,45,Multiple cases of heatstroke amid extreme temperatures affecting vulnerable populations.,False
+2023-04-27,Medical,67,Mumbai,19.0623,73.0629,11.5,3.8,Healthcare,Gastroenteritis Outbreak,128,Outbreak of gastroenteritis affecting multiple communities likely from contaminated water.,False
+2023-04-27,Fire,29,Shimla,31.2335,77.1357,14.7,9.4,Natural,Forest Fire,109,Wildfire spreading through forest areas threatening nearby settlements.,True
+2025-04-27,Medical,90,Allahabad,25.4358,81.8463,18.5,5.3,Healthcare,Leptospirosis Cases,50,Post-monsoon outbreak in flood-affected areas,False
+2025-04-27,Disaster,73,Agartala,23.8315,91.2868,22.3,6.15,Natural,Drought,120,Worst drought in decade affecting rice cultivation,True
+2025-04-27,Disaster,90,Shimla,31.1048,77.1734,25.7,5.4,Natural,Drought,100,Water shortage in tourist areas,True
+2025-04-27,Industrial,69,Vijayawada,16.5062,80.6480,30.2,8.0,Industrial,Power Plant Failure,15,Grid failure affecting 3 districts,True
+2025-04-27,Disaster,49,Thiruvananthapuram,8.5241,76.9366,28.9,8.07,Industrial,Chemical Spill,20,Hazardous chemical spill at industrial facility,True
+2025-04-27,Disaster,148,Visakhapatnam,17.6868,83.2185,35.5,8.5,Natural,Cyclone,150,Cyclone making landfall with destructive winds,True
+2025-04-27,Medical,99,Bhubaneswar,20.2961,85.8245,15.2,6.7,Healthcare,Heatwave,80,Record-breaking temperatures (47°C),False
+2025-04-27,Disaster,53,Aizawl,23.7271,92.7176,32.8,7.3,Environmental,Oil Spill,40,Oil pipeline rupture contaminating water sources,True
+2025-04-27,Disaster,37,Imphal,24.8170,93.9368,19.5,9.35,Infrastructure,Structural Failure,5,Building collapse in urban area with casualties,True
+2025-04-27,Disaster,187,Kolkata,22.5726,88.3639,27.3,6.0,Natural,Lightning Strike Incident,75,Multiple lightning strikes during thunderstorms,False
+2025-04-28,Industrial,112,Chennai,13.0827,80.2707,32.1,7.8,Industrial,Chemical Plant Fire,8,Blast at petrochemical storage unit,True
+2025-04-28,Medical,145,Patna,25.5941,85.1376,14.2,4.5,Healthcare,Heatstroke Wave,90,45°C temperatures overwhelming hospitals,False
+2025-04-28,Disaster,66,Surat,21.1702,72.8311,26.5,6.8,Natural,Urban Flooding,25,Diamond district inundation,True
+2025-04-28,Medical,81,Indore,22.7196,75.8577,17.8,4.1,Healthcare,Gastroenteritis,55,Contaminated water supply outbreak,False
+2025-04-28,Disaster,203,Mumbai,19.0760,72.8777,45.0,9.2,Natural,Cyclone,180,Coastal evacuation ordered,True
+2025-04-28,Medical,88,Hyderabad,17.3850,78.4867,16.7,3.8,Healthcare,Dengue Outbreak,60,Unseasonal mosquito breeding spike,False
+2025-04-28,Disaster,57,Nagpur,21.1458,79.0882,24.3,5.6,Infrastructure,Bridge Collapse,12,Old British-era bridge failure,True
+2025-04-28,Environmental,34,Kochi,9.9312,76.2673,21.5,5.9,Environmental,Oil Spill,25,Tourist beaches contaminated,True
+2025-04-28,Medical,107,Ranchi,23.3441,85.3096,19.1,4.7,Healthcare,Encephalitis,70,Japanese encephalitis cluster,False
+2025-04-28,Disaster,72,Jodhpur,26.2389,73.0243,28.7,6.5,Natural,Sandstorm,150,Visibility below 50m airport closed,True
+2025-04-29,Medical,127,Delhi,28.7041,77.1025,19.8,4.1,Healthcare,Respiratory Crisis,110,AQI 500+ emergency,False
+2025-04-29,Disaster,78,Dehradun,30.3165,78.0322,26.4,7.3,Natural,Landslide,45,Char Dham highway blocked,True
+2025-04-29,Industrial,94,Kanpur,26.4499,80.3319,31.5,7.1,Industrial,Textile Factory Fire,6,Worker casualties reported,True
+2025-04-29,Medical,95,Lucknow,26.8467,80.9462,17.3,5.0,Healthcare,Cholera Outbreak,70,Slum area sanitation failure,False
+2025-04-29,Disaster,142,Puri,19.8134,85.8315,38.6,8.4,Natural,Coastal Flooding,95,Temple town inundation,True
+2025-04-29,Industrial,63,Bengaluru,12.9716,77.5946,29.7,6.2,Industrial,Factory Explosion,15,Electronics unit blast,True
+2025-04-29,Medical,108,Guwahati,26.1445,91.7362,15.9,4.3,Healthcare,Malaria Spike,85,Post-flood vector surge,False
+2025-04-29,Disaster,55,Amritsar,31.6340,74.8723,23.8,5.8,Infrastructure,Building Collapse,8,Heritage structure collapse,True
+2025-04-29,Environmental,41,Goa,15.2993,74.1240,20.6,5.2,Environmental,Beach Erosion,30,25m coastline lost overnight,True
+2025-04-29,Medical,116,Varanasi,25.3176,82.9739,18.2,4.9,Healthcare,Heat Exhaustion,85,Pilgrimage season crisis,False
+2025-04-30,Disaster,134,Chennai,13.0827,80.2707,33.7,8.1,Natural,Cyclone,160,Second cyclone in 72 hours,True
+2025-04-30,Medical,102,Patna,25.5941,85.1376,16.4,4.6,Healthcare,Heatstroke,95,47°C with 80% humidity,False
+2025-04-30,Industrial,71,Ahmedabad,23.0225,72.5714,27.9,6.9,Industrial,Gas Leak,10,Chemical unit accident,True
+2025-04-30,Medical,89,Bhopal,23.2599,77.4126,17.1,4.0,Healthcare,Dysentery,60,Water treatment plant failure,False
+2025-04-30,Disaster,158,Visakhapatnam,17.6868,83.2185,36.2,8.3,Natural,Storm Surge,140,3m wave height recorded,True
+2025-04-30,Medical,113,Pune,18.5204,73.8567,15.8,4.2,Healthcare,Leptospirosis,65,Sewage mixing with floodwaters,False
+2025-04-30,Disaster,48,Jaipur,26.9124,75.7873,25.3,6.0,Infrastructure,Metro Tunnel Collapse,4,Construction site accident,True
+2025-04-30,Environmental,37,Mangalore,12.9141,74.8560,22.4,5.5,Environmental,Oil Spill,28,Fishing harbor contamination,True
+2025-04-30,Medical,124,Kolkata,22.5726,88.3639,19.7,4.8,Healthcare,Respiratory Emergency,100,Post-cyclone mold infestation,False
+2025-04-30,Disaster,83,Shillong,25.5788,91.8933,29.5,7.0,Natural,Landslide,50,Hill station access blocked,True
+2025-05-01,Medical,138,Delhi,28.7041,77.1025,20.1,4.3,Healthcare,Smog Crisis,115,Winter pollution onset early,False
+2025-05-01,Disaster,91,Dehradun,30.3165,78.0322,27.3,7.5,Natural,Flash Floods,55,Cloudburst in mountains,True
+2025-05-01,Industrial,77,Kanpur,26.4499,80.3319,30.8,7.3,Industrial,Battery Plant Fire,7,Lithium battery explosion,True
+2025-05-01,Medical,104,Lucknow,26.8467,80.9462,17.6,5.2,Healthcare,Cholera,75,Old city water contamination,False
+2025-05-01,Disaster,167,Puri,19.8134,85.8315,39.1,8.7,Natural,Coastal Erosion,110,500m beach lost in 24h,True
+2025-05-01,Industrial,69,Bengaluru,12.9716,77.5946,28.9,6.5,Industrial,Data Center Fire,9,Major IT outage,True
+2025-05-01,Medical,117,Guwahati,26.1445,91.7362,16.2,4.5,Healthcare,Malaria,90,Post-monsoon vector surge,False
+2025-05-01,Disaster,62,Amritsar,31.6340,74.8723,24.5,6.1,Infrastructure,Bridge Crack,10,Critical structural flaw found,True
+2025-05-01,Environmental,45,Goa,15.2993,74.1240,21.3,5.5,Environmental,Coral Bleaching,35,70% reef damage reported,True
+2025-05-01,Medical,129,Varanasi,25.3176,82.9739,18.7,5.1,Healthcare,Heatstroke,95,Pilgrim crowding during heat,False
+2025-05-02,Disaster,147,Chennai,13.0827,80.2707,34.2,8.3,Natural,Cyclone,170,Third cyclone in week,True
+2025-05-02,Medical,109,Patna,25.5941,85.1376,16.9,4.8,Healthcare,Heat Exhaustion,100,Record May temperatures,False
+2025-05-02,Industrial,84,Ahmedabad,23.0225,72.5714,28.7,7.2,Industrial,Chemical Leak,12,Pesticide factory incident,True
+2025-05-02,Medical,97,Bhopal,23.2599,77.4126,17.5,4.3,Healthcare,Gastroenteritis,70,Municipal water contamination,False
+2025-05-02,Disaster,182,Visakhapatnam,17.6868,83.2185,37.5,8.9,Natural,Storm Surge,150,Port infrastructure damaged,True
+2025-05-02,Medical,121,Pune,18.5204,73.8567,16.3,4.5,Healthcare,Leptospirosis,75,Flood-related cases spiking,False
+2025-05-02,Disaster,57,Jaipur,26.9124,75.7873,26.1,6.3,Infrastructure,Heritage Wall Collapse,6,300-year-old structure failed,True
+2025-05-02,Environmental,43,Mangalore,12.9141,74.8560,23.2,5.8,Environmental,Oil Slick,32,Tourist season impact,True
+2025-05-02,Medical,135,Kolkata,22.5726,88.3639,20.3,5.0,Healthcare,Respiratory,110,Post-cyclone disease spike,False
+2025-05-02,Disaster,96,Shillong,25.5788,91.8933,30.2,7.3,Natural,Landslide,55,Major highway blocked,True
+2025-05-03,Medical,145,Delhi,28.7041,77.1025,21.0,4.6,Healthcare,Smog Emergency,125,Emergency measures enacted,False
+2025-05-03,Disaster,105,Dehradun,30.3165,78.0322,28.1,7.8,Natural,Flash Flood,60,Pilgrimage routes affected,True
+2025-05-03,Industrial,92,Kanpur,26.4499,80.3319,32.3,7.6,Industrial,Tannery Fire,8,Chemical runoff into Ganga,True
+2025-05-03,Medical,113,Lucknow,26.8467,80.9462,18.1,5.5,Healthcare,Cholera,85,Old city outbreak worsening,False
+2025-05-03,Disaster,193,Puri,19.8134,85.8315,40.3,9.1,Natural,Coastal Flooding,130,Temple submergence threat,True
+2025-05-03,Industrial,78,Bengaluru,12.9716,77.5946,30.2,6.8,Industrial,IT Park Fire,10,Major tech company outage,True
+2025-05-03,Medical,126,Guwahati,26.1445,91.7362,16.8,4.8,Healthcare,Malaria,100,Refugee camp outbreak,False
+2025-05-03,Disaster,71,Amritsar,31.6340,74.8723,25.7,6.6,Infrastructure,Heritage Damage,12,Golden Temple perimeter crack,True
+2025-05-03,Environmental,52,Goa,15.2993,74.1240,22.1,5.9,Environmental,Beach Loss,40,Resort areas eroding fast,True
+2025-05-03,Medical,142,Varanasi,25.3176,82.9739,19.5,5.4,Healthcare,Heatstroke,105,Mass pilgrim hospitalization,False
+2023-04-27,Disaster,79,Jaipur,26.9124,75.7873,26.9,4.4,Natural,Heatwave,70,Prolonged period of extremely high temperatures affecting vulnerable populations,False
 2023-04-27,Medical,40,Vadodara,22.2294,73.261,13.3,4.0,Healthcare,Heatstroke Wave,82,"Multiple cases of heatstroke amid extreme temperatures, affecting vulnerable populations.",False
 2023-04-27,Medical,138,Bengaluru,12.8313,77.6378,8.6,5.0,Healthcare,Heatstroke Wave,63,"Multiple cases of heatstroke amid extreme temperatures, affecting vulnerable populations.",False
 2023-04-27,Disaster,93,Chennai,13.1878,80.1756,18.0,5.7,Natural,Drought,113,Prolonged dry period affecting agriculture and water availability.,False
