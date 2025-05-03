@@ -9,7 +9,7 @@ date,call_type,call_count,district,latitude,longitude,response_time,destruction_
 2023-04-27,Medical,32,Visakhapatnam,17.6663,83.2771,12.8,3.1,Healthcare,Heatstroke Wave,45,Multiple cases of heatstroke amid extreme temperatures affecting vulnerable populations.,False
 2023-04-27,Medical,67,Mumbai,19.0623,73.0629,11.5,3.8,Healthcare,Gastroenteritis Outbreak,128,Outbreak of gastroenteritis affecting multiple communities likely from contaminated water.,False
 2023-04-27,Fire,29,Shimla,31.2335,77.1357,14.7,9.4,Natural,Forest Fire,109,Wildfire spreading through forest areas threatening nearby settlements.,True
-2025-04-27,Medical,90,Allahabad,25.4358,81.8463,18.5,5.3,Healthcare,Leptospirosis Cases,50,Post-monsoon outbreak in flood-affected areas,False
+2025-04-27,Medical,90,Allahabad,31.2335,77.1357,18.5,5.3,Healthcare,Leptospirosis Cases,50,Post-monsoon outbreak in flood-affected areas,False
 2025-04-27,Disaster,73,Agartala,23.8315,91.2868,22.3,6.15,Natural,Drought,120,Worst drought in decade affecting rice cultivation,True
 2025-04-27,Disaster,90,Shimla,31.1048,77.1734,25.7,5.4,Natural,Drought,100,Water shortage in tourist areas,True
 2025-04-27,Industrial,69,Vijayawada,16.5062,80.6480,30.2,8.0,Industrial,Power Plant Failure,15,Grid failure affecting 3 districts,True
